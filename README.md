@@ -36,3 +36,7 @@ Results
 
 SVM models accuracy: 96% (linear), 100% (non-linear).
 Neural network accuracy: 97.77%.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
